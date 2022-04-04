@@ -8,6 +8,9 @@ A small demo application based on modern Android application tech-stacks and MVV
 <img src="/images/preview.jpg"/>
 </p>
 
+##### UI Inspired from [Dribbble](https://dribbble.com/shots/5746131-DailyUI-41-Simple-ToDo-List)
+
+
 ## Download
 
 Go to the [Releases](https://github.com/itsZECHS/Dexio/releases) to download the
@@ -23,3 +26,4 @@ latest APK.
     - ViewModel - UI related data holder, lifecycle aware.
 - MVVM Architecture
 - Room database
+
